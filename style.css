@@ -1,0 +1,35 @@
+*{
+    top: 0px;
+    bottom: 0px;
+}
+body{
+    background-color: burlywood;
+}
+.title{
+    color:navy;
+    font-weight: bolder;
+}
+.canv{
+    float: left;
+    background-color: white;
+}
+.btnclass{
+    float: right;
+    align-content: center;
+    font-size: larger;
+}
+.btn{
+    padding: 19px;
+    float:left;
+    padding: 20px;
+    margin: 10px 10px 10px 10px;
+    font-size: large ;
+}
+#score{
+    float: left;
+    margin: 150px 20px 0px 200px;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic ;
+    color:#0000FF ;
+}
